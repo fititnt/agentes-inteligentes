@@ -1,4 +1,4 @@
-# Agente inteligentes
+# Agentes inteligentes
 
 > Em [inteligência artificial](https://pt.wikipedia.org/wiki/Intelig%C3%AAncia_artificial),
 um **agente inteligente** (IA) é uma entidade autônoma que observa através de
@@ -12,9 +12,14 @@ telefone ou via texto, como um chatbot.
 
 <!-- TOC -->
 
-- [Agente inteligentes](#agente-inteligentes)
+- [Agentes inteligentes](#agentes-inteligentes)
     - [Chatbot](#chatbot)
-        - [Definição](#definição)
+        - [Informações gerais](#informações-gerais)
+            - [Em texto](#em-texto)
+            - [Produção acadêmica/científica](#produção-acadêmicacientífica)
+        - [Como desenvolver seu chatbot](#como-desenvolver-seu-chatbot)
+            - [Vídeo](#vídeo)
+        - [Exemplos para se inspirar](#exemplos-para-se-inspirar)
     - [ChatOps](#chatops)
     - [AIOps](#aiops)
 
@@ -28,16 +33,45 @@ telefone ou via texto, como um chatbot.
 conduz uma conversa por meio de métodos auditivos ou textuais, opcionalmente
 se comportando de forma convincente como se fosse um humano. 
 
-### Definição
+### Informações gerais
+
+#### Em texto
 
 - [Chatbot, wikipedia](https://pt.wikipedia.org/wiki/Chatterbot)
+- [Verbete Draft: o que é Chatbot](https://projetodraft.com/verbete-draft-o-que-e-chatbot/) por projetodraft.com
 
 **Explicação para uso em marketing**
 
-- [Você conhece os Chatbots? Descubra aqui o que são e como usá-los para otimizar o atendimento ao cliente](https://marketingdeconteudo.com/chatbots/) por marketingdeconteudo.com
+> _**Aviso:** os links a seguir podem conter auto-promoção_
 
+- [Você conhece os Chatbots?](https://marketingdeconteudo.com/chatbots/) por marketingdeconteudo.com
+- [Chatbot: plataforma e aplicações](https://www.globalbot.com.br/chatbot), por globalbot.com.br
+- [Por que Chatbot é considerado como a nova onda da comunicação?](http://blog.cedrotech.com/por-que-chatbot-e-considerado-como-nova-onda-da-comunicacao/), por http://blog.cedrotech.com
+- [O que é chatbot? Tendências e aplicações](http://blog.cedrotech.com/o-que-e-chatbot-tendencias-aplicacoes/), por http://blog.cedrotech.com
 
-> _TODO: adicionar links sobre ChatBot (fititnt, 2018-01-28 05:57 BRTS)_
+#### Produção acadêmica/científica
+
+<!--
+  TODO: possivelmente reconsiderar se artigos estão muito antigos (fititnt, 2018-01-28 22:54 BRTS)
+-->
+
+- [Desenvolvimento de um Chatterbot para Área Imobiliária Integrando Raciocínio Baseado em Casos](http://revistaseletronicas.pucrs.br/ojs/index.php/hifen/article/download/3857/2928),
+por Helton Machado Kraus e Anita Maria da Rocha Fernandes, UNIVALI, 2007
+
+### Como desenvolver seu chatbot
+
+#### Vídeo
+
+_Não há vídeos cadastrados no momento_
+
+### Exemplos para se inspirar
+
+> _TODO: adicionar na própria lista exemplos de chatbots em vez de apenas links
+para sites que contém chatbots(fititnt, 2018-01-28 05:57 BRTS)_
+
+- [Bots Brasil | Lista de chatbots brasileiros](http://www.botsbrasil.com.br/), por botsbrasil.com.br
+- [Lista de Chatbots Brasileiros para WhatsApp e Messenger](https://www.botware.com.br/lista-chat-bots-brasileiros/), por botware.com.br
+- [Bots Landscape Brasil: + de 80 bots nacionais](https://medium.com/botsbrasil/bots-landscape-brasil-de-80-bots-nacionais-a0d37086eb70), por medium.com/botsbrasil
 
 ## ChatOps
 
